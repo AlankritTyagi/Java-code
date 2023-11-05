@@ -1,2 +1,2 @@
 # Java-code
-Here all the code will be related to java language.
+My code related to java language.
